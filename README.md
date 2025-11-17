@@ -1,31 +1,47 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Shaxriyor</h1> 
-<h3 align="center">frontend developer from Uzbekistan (Karshi)</h3>
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8AB4F8&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Baxtiyorov+%F0%9F%91%8B;Junior+Frontend+Developer;I+love+building+clean+and+modern+UI;Always+learning%2C+always+growing!" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baxtiyorovdev&label=Profile%20views&color=0e75b6&style=flat" alt="baxtiyorovdev" /> </p>
+---
 
-- 🔭 I’m currently working on [bbc-auto]
+## 🧑‍💻 About Me
+Hi! I’m **Baxtiyorov**, a junior frontend developer who loves creating smooth, modern and responsive user interfaces.  
+I enjoy working with **React**, **TypeScript** and everything that makes the web beautiful.
 
-- 🌱 I’m currently deep learning **TypeScript**
+---
 
-- 💬 Ask me about **JavaScript,Html,React.js**
+## 🌑 Tech Stack
+<div align="center">
 
-- 📫 How to reach me **baxtiyorov.dev@gmail.com**
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)
 
-- ⚡ Fun fact **play a videogames, read books and more**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/baxtiyorov.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorbek_coder" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+## 📊 GitHub Stats (Dark Mode)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxtiyorovdev&show_icons=true&locale=en&layout=compact" alt="baxtiyorovdev" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyorovdev&show_icons=true&locale=en" alt="baxtiyorovdev" /></p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=baxtiyorovdev&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyorovdev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com/?user=baxtiyorovdev&theme=tokyonight&hide_border=true" />
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baxtiyorovdev/baxtiyorovdev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baxtiyorovdev/baxtiyorovdev/output/github-snake.svg" />
