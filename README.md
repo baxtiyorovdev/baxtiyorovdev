@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Hi! I’m **Baxtiyorov**, a junior frontend developer who loves creating smooth, modern and responsive user interfaces.  
+Hi! I’m **Baxtiyorov Shaxriyor**, a junior frontend developer who loves creating smooth, modern and responsive user interfaces.  
 I enjoy working with **React**, **TypeScript** and everything that makes the web beautiful.
 
 ---
